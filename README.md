@@ -1,3 +1,81 @@
+# 📖 Pelindung Bayang Masa Lalu
+
+> Sebuah novel tentang rahasia, luka masa lalu, dan seseorang yang memilih menjadi pelindung dalam bayang-bayang.
+
+---
+
+## 📝 Sinopsis
+
+Di kota yang terlihat tenang, masa lalu tidak pernah benar-benar hilang.  
+Ketika rahasia lama mulai muncul kembali, seorang tokoh misterius memilih untuk tetap berada di balik bayangan — melindungi seseorang yang bahkan tidak menyadari bahaya yang mengintai.
+
+"Pelindung Bayang Masa Lalu" adalah kisah tentang:
+- Penebusan
+- Pengorbanan
+- Trauma yang belum selesai
+- Dan cinta yang tak selalu terlihat
+
+---
+
+## 🎭 Genre
+
+- Drama
+- Misteri
+- Thriller Psikologis
+- Romansa
+
+---
+
+## 🧠 Tema Utama
+
+- Luka masa lalu yang membentuk masa depan
+- Identitas dan rahasia
+- Melindungi tanpa harus memiliki
+- Kebenaran yang menyakitkan
+
+---
+
+## 📂 Struktur Folder
+[23.36, 20/2/2026] jun servis: # 📖 Pelindung Bayang Masa Lalu
+
+> Sebuah novel tentang rahasia, luka masa lalu, dan seseorang yang memilih menjadi pelindung dalam bayang-bayang.
+
+---
+
+## 📝 Sinopsis
+
+Di kota yang terlihat tenang, masa lalu tidak pernah benar-benar hilang.  
+Ketika rahasia lama mulai muncul kembali, seorang tokoh misterius memilih untuk tetap berada di balik bayangan — melindungi seseorang yang bahkan tidak menyadari bahaya yang mengintai.
+
+"Pelindung Bayang Masa Lalu" adalah kisah tentang:
+- Penebusan
+- Pengorbanan
+- Trauma yang belum selesai
+- Dan cinta yang tak selalu terlihat
+
+---
+
+## 🎭 Genre
+
+- Drama
+- Misteri
+- Thriller Psikologis
+- Romansa
+
+---
+
+## 🧠 Tema Utama
+
+- Luka masa lalu yang membentuk masa depan
+- Identitas dan rahasia
+- Melindungi tanpa harus memiliki
+- Kebenaran yang menyakitkan
+
+---
+
+## 📂 Struktur Folder
+[23.37, 20/2/2026] jun servis: ---
+
 ## ✍️ Status Penulisan
 
 - [x] Konsep cerita
@@ -49,4 +127,4 @@ Segala kritik dan saran sangat terbuka untuk pengembangan cerita.
 Hak cipta © 2026  
 Semua hak dilindungi.
 
-Dilarang memperbanyak atau mendistribusikan tanpa izin penulis
+Dilarang memperbanyak atau mendistribusikan tanpa izin penulis.
